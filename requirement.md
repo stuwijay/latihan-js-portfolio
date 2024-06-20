@@ -22,7 +22,7 @@ A. Perhatikan Value/Nilai pada section profile, yaitu :
    - 1
    - email@blablabla.com
 
-![image](https://github.com/stuwijay/latihan-js-portfolio/blob/main/Section%20Form.png)
+![image](https://github.com/stuwijay/latihan-js-portfolio/blob/main/Section%20Profile.png) 
 
 
 B. Masukkan Value/Nilai ke dalam section edit profile dibawah ini : 
@@ -34,8 +34,7 @@ B. Masukkan Value/Nilai ke dalam section edit profile dibawah ini :
    - 1
    - email@blablabla.com
 
-![image](https://github.com/stuwijay/latihan-js-portfolio/blob/main/Section%20Profile.png) 
-
+![image](https://github.com/stuwijay/latihan-js-portfolio/blob/main/Section%20Form.png)
 
 Pastikan Value/Nilai harus sama antara section Profile dan Form
 
