@@ -44,7 +44,7 @@ Lakukan Perubahan Data pada section Form dimana setelah User klik submit maka se
 
 ilustrasi (Gif Version)
 
-![image](https://github.com/H8-FTGO-P0/FTGO-P0-V1-GC2/blob/main/Task2.gif) 
+![image](https://github.com/stuwijay/latihan-js-portfolio/blob/main/Task2.gif) 
 
 
 
