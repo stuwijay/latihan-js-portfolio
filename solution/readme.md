@@ -1,13 +1,5 @@
 # Build your Dynamic Portfolio using Javascript
 
-## Pseudocode Program hingga Fitur Add Karyawan dan Display Karyawan
-
-1. Mengganti Model Menu
-2. Buat array `daftarKaryawan` untuk menyimpan data karyawan.
-3. Buat fungsi `tambahKaryawan` untuk menambahkan karyawan ke dalam daftar.
-4. Buat fungsi `tampilkanKaryawanDiHTML` untuk menampilkan daftar karyawan di elemen HTML.
-5. Tambahkan event listener pada form untuk menangani penambahan karyawan baru ketika form disubmit.
-
 ## Penjelasan 
 
 ### 1. Mengganti model menu
