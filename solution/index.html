@@ -5,8 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="./asset/css/style.css">
     </head>
-      <!-- 1Kita coba tambah kode jika tombol submit di klik dengan fungsi onclick simpanForm
-       -->
+
     <body>
         <nav>
             <div class="menu-mobile">
@@ -91,32 +90,6 @@
                 </div>
             <!-- </form>  -->           
         </section>
-
-         <!-- 2Sebelumnya kita sudah buat form simpan. 
-             Panggil Ulang formenu tambahkan style display none
-             simpan - debug
-
-             ada yang aneh ? 
-             Ya, halaman nya melakukan reload ulang. seharusnya ? tidak melakukan reload ulang!
-             terjadi karena pada section form terdapat action value dengan tanda #, lihat tanda #di url. 
-
-             supaya berjalan dengan sebagaimana mestinya kita komen si tag form dengan penutup tag formnya 
-
-             save - debug
-
-             Next buat kondisi apabila kita input nama pada form. 
-             pertama ambil value dari name kita dan ambil valuenya. line 147
-             setelah itu aplikasikan pada tombol id pname selanjutnya
-             mengubah supaya nama berubah dg apa yang diinput dengan kode pName dan innerHTML menjadi var name
-             line 159
-             save-debug.
-
-             QUIZ : Dengan pola yang sama selesaikan untuk form lainnya!
-
-
-        -->
-
-
         <script>
             var formMenu = document.getElementById("input-form");
             formMenu.style.display="none";
